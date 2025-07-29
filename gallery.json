@@ -1,0 +1,20 @@
+[
+  {
+    "item_id": "P100",
+    "item_name": "Plates",
+    "image_url": "https://res.cloudinary.com/ddfook4jq/image/upload/v1753106084/plate_black_j76v4y.jpg",
+    "category": "Dinnerware"
+  },
+  {
+    "item_id": "P200",
+    "item_name": "Centerpiece",
+    "image_url": "https://res.cloudinary.com/ddfook4jq/image/upload/v1753106273/centerpiece_oup6hn.jpg",
+    "category": "Dinnerware"
+  },
+  {
+    "item_id": "P300",
+    "item_name": "Photo Box",
+    "image_url": "https://res.cloudinary.com/ddfook4jq/image/upload/v1753106229/photo_box_cv4gyw.jpg",
+    "category": "Activities"
+  }
+]
